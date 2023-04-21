@@ -1,6 +1,12 @@
 .. index:: Attribute table
 .. _sec_attribute_table:
 
+.. figure:: img/usthb.png
+   :align: center
+
+   Conditional Formatting of an attribute table 115556
+
+
 **********************************
  Working with the Attribute Table
 **********************************
